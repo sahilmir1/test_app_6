@@ -1,3 +1,3 @@
 # README
 
-Complete Ruby Course
+First test repo for Ruby
